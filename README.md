@@ -1,4 +1,4 @@
-# Animated-Twitter-Splash-Screen
+# Animated-Twitter-Splash-Screen-using-Motion-Layout
 
 
 
