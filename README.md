@@ -1,6 +1,6 @@
-# Twitter-Splash-Screen-using-Motion-Layout
+# Animated-Twitter-Splash-Screen
 
 
 
-# Demo:
+# Motion-Layout:
 ![snap](twitter.gif)
